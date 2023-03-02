@@ -1,0 +1,6 @@
+ *git clone: importa do github para o git bash
+ *cd: navega entre as pastas
+ *git status: verifica se repositório está rodando na máquina
+ *git add.: adiciona pastas criadas no repositório
+ *git commit - m "-m adiciona mensagem": cria um commit local
+ *git push origin main: sobe commit criado localmente para nuvem
